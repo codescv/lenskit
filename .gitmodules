@@ -1,0 +1,3 @@
+[submodule "lenskit-hello"]
+	path = lenskit-hello
+	url = git@github.com:codescv/lenskit-hello.git
